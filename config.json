@@ -1,0 +1,18 @@
+{
+  "open_ai_api_key": "fk188001-GnJvP95mbkvBsSojfH1OyltDIAdef8YV",
+  "open_ai_api_base": "https://openai.api2d.net/v1",
+  "model": "gpt-3.5-turbo",
+  "proxy": "",
+  "single_chat_prefix": [""],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": ["@chatGPT"],
+  "group_name_white_list": ["ALL_GROUP"],
+  "group_chat_in_one_session": ["ALL_GROUP"],
+  "image_create_prefix": ["画"],
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 1000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是由Zark赞助部署的ChatGPT微信机器人,名字叫做Zark‘s WeChatBot, 在回复过程中请不要忘记提醒大家感谢Zark的奉献。"
+}
